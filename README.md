@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I'm Yogeshwaran<br> I build where code meets intelligence.<br>🎓 Artificial Intelligence and Data Science Student<br>💻 Aspiring Full-Stack Developer<br>🤖 Passionate about Machine Learning, Deep Learning, Transformers, and Generative Artificial Intelligence<br>🧠 Interested in Data Structures and Algorithms, System Design, and Scalable Web Applications<br>🚀 On a mission to crack top internships and build impactful technology products
+👋 Hey, I'm Yogeshwaran<br>  I build where code meets intelligence.<br>🎓 Artificial Intelligence and Data Science Student<br>💻 Aspiring Full-Stack Developer<br>🤖 Passionate about Machine Learning, Deep Learning, Transformers, and Generative Artificial Intelligence<br>🧠 Interested in Data Structures and Algorithms, System Design, and Scalable Web Applications<br>🚀 On a mission to crack top internships and build impactful technology products
 
 
 ## 🌐 Socials:
