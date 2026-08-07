@@ -24,7 +24,9 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=F39C12&height=60&section=header&text=About%20Me&fontSize=35&fontColor=F39C12" alt="About Me" />
+</p>
 
 <p align="center">
   <em>
@@ -56,7 +58,9 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Currently Building
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=F39C12&height=60&section=header&text=Currently%20Building&fontSize=35&fontColor=F39C12" alt="Currently Building" />
+</p>
 
 <br/>
 
@@ -107,62 +111,60 @@
 
 ---
 
-## 🛠️ Tech Stack
-
 <p align="center">
-  <strong>Generative AI & LLMs</strong>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=F39C12&height=60&section=header&text=Tech%20Stack&fontSize=35&fontColor=F39C12" alt="Tech Stack" />
 </p>
 
-<p align="center">
-  <strong>ML, Data & Fine-Tuning</strong>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn,pytorch&theme=dark" alt="ML stack" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-</p>
-
-<p align="center">
-  <strong>RAG & Vector DBs</strong>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white" alt="ChromaDB" />
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white" alt="FAISS" />
-</p>
-
-<p align="center">
-  <strong>Languages & Frontend</strong>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,tailwind,bootstrap,react&theme=dark" alt="languages frontend" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-</p>
-
-<p align="center">
-  <strong>Tools & DevOps</strong>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,githubactions,fastapi&theme=dark" alt="tools" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab" />
-</p>
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="50%">
+      <strong>Generative AI & LLMs</strong><br/><br/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
+      <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq" />
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+      <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama" />
+    </td>
+    <td align="center" width="50%">
+      <strong>ML, Data & Fine-Tuning</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=sklearn,pytorch&theme=dark" alt="ML stack" />
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <br/><strong>RAG & Vector DBs</strong><br/><br/>
+      <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white" alt="ChromaDB" />
+      <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white" alt="FAISS" />
+    </td>
+    <td align="center" width="50%">
+      <br/><strong>Languages & Frontend</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,js,html,css,tailwind,bootstrap,react&theme=dark" alt="languages frontend" />
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <br/><strong>Tools & DevOps</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,githubactions,fastapi&theme=dark" alt="tools" />
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+      <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab" />
+    </td>
+  </tr>
+</table>
 
 
 
 ---
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=F39C12&height=60&section=header&text=GitHub%20Stats&fontSize=35&fontColor=F39C12" alt="GitHub Stats" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Yogeshwaran197&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="stats" height="180" />
@@ -184,7 +186,9 @@
 
 ---
 
-## 📬 Get in Touch
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=F39C12&height=60&section=header&text=Get%20in%20Touch&fontSize=35&fontColor=F39C12" alt="Get in Touch" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yogeshwaran-d-snsce"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
