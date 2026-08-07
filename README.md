@@ -59,9 +59,10 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=F39C12&height=60&section=header&text=Currently%20Building&fontSize=35&fontColor=F39C12&stroke=F39C12&strokeWidth=2" alt="Currently Building" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=F39C12&height=60&section=header&text=Pinned%20Repositories&fontSize=35&fontColor=F39C12&stroke=F39C12&strokeWidth=2" alt="Pinned Repositories" />
 </p>
 
+<br/>
 <br/>
 
 <table align="center" width="100%">
@@ -83,6 +84,9 @@
     </td>
   </tr>
 </table>
+
+<br/>
+<br/>
 
 ---
 
