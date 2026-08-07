@@ -64,12 +64,6 @@ Final-year **AI & Data Science** @ SNS College of Engineering. I build the LLM s
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogeshwaran197&theme=github-dark-blue&hide_border=true" alt="streak" />
 </p>
 
-## Contribution Calendar
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution calendar" />
-</p>
-
 ## Get in Touch
 
 <p align="center">
