@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waved&color=0:0D1117,50:161B22,100:21262D&height=250&section=header&text=Yogeshwaran%20D&fontSize=50&fontColor=58A6FF&animation=twinkling" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262D&height=250&section=header&text=Yogeshwaran%20D&fontSize=50&fontColor=58A6FF&animation=twinkling" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVnbWVidGxzbWE5Mm56ZGhhaWR6cDRjNW1oZG1zdXJheHQ1Zmw4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="500" alt="dev working" />
+  <img src="https://media.tenor.com/dQGUtBwpDXUAAAAM/kanna-kanna-kamui.gif" width="500" alt="dev working" />
 </p>
 
 <p align="center">
