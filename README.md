@@ -25,7 +25,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=FF4444&height=60&section=header&text=About%20Me&fontSize=35&fontColor=FF4444&stroke=FF4444&strokeWidth=2" alt="About Me" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=F39C12&height=60&section=header&text=About%20Me&fontSize=35&fontColor=F39C12&stroke=F39C12&strokeWidth=2" alt="About Me" />
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=FF4444&height=60&section=header&text=Pinned%20Repositories&fontSize=35&fontColor=FF4444&stroke=FF4444&strokeWidth=2" alt="Pinned Repositories" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=F39C12&height=60&section=header&text=Pinned%20Repositories&fontSize=35&fontColor=F39C12&stroke=F39C12&strokeWidth=2" alt="Pinned Repositories" />
 </p>
 
 <br/>
@@ -69,17 +69,17 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/Yogeshwaran197/intent-routed-rag-agent">
-        <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin?username=Yogeshwaran197&repo=intent-routed-rag-agent&theme=github_dark&bg_color=0D1117&title_color=FF4444&icon_color=58A6FF&text_color=C9D1D9&border_color=1B263B" alt="intent-routed-rag-agent" />
+        <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin?username=Yogeshwaran197&repo=intent-routed-rag-agent&theme=github_dark&bg_color=0D1117&title_color=F39C12&icon_color=58A6FF&text_color=C9D1D9&border_color=1B263B" alt="intent-routed-rag-agent" />
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Yogeshwaran197/Investment_agent">
-        <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin?username=Yogeshwaran197&repo=Investment_agent&theme=github_dark&bg_color=0D1117&title_color=FF4444&icon_color=58A6FF&text_color=C9D1D9&border_color=1B263B" alt="Investment_agent" />
+        <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin?username=Yogeshwaran197&repo=Investment_agent&theme=github_dark&bg_color=0D1117&title_color=F39C12&icon_color=58A6FF&text_color=C9D1D9&border_color=1B263B" alt="Investment_agent" />
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Yogeshwaran197/openBrower-Agent">
-        <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin?username=Yogeshwaran197&repo=openBrower-Agent&theme=github_dark&bg_color=0D1117&title_color=FF4444&icon_color=58A6FF&text_color=C9D1D9&border_color=1B263B" alt="openBrower-Agent" />
+        <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin?username=Yogeshwaran197&repo=openBrower-Agent&theme=github_dark&bg_color=0D1117&title_color=F39C12&icon_color=58A6FF&text_color=C9D1D9&border_color=1B263B" alt="openBrower-Agent" />
       </a>
     </td>
   </tr>
@@ -91,7 +91,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=FF4444&height=60&section=header&text=Tech%20Stack&fontSize=35&fontColor=FF4444&stroke=FF4444&strokeWidth=2" alt="Tech Stack" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=F39C12&height=60&section=header&text=Tech%20Stack&fontSize=35&fontColor=F39C12&stroke=F39C12&strokeWidth=2" alt="Tech Stack" />
 </p>
 
 <table align="center" border="0">
@@ -140,7 +140,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=FF4444&height=60&section=header&text=GitHub%20Stats&fontSize=35&fontColor=FF4444&stroke=FF4444&strokeWidth=2" alt="GitHub Stats" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=F39C12&height=60&section=header&text=GitHub%20Stats&fontSize=35&fontColor=F39C12&stroke=F39C12&strokeWidth=2" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -164,7 +164,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=FF4444&height=60&section=header&text=Get%20in%20Touch&fontSize=35&fontColor=FF4444&stroke=FF4444&strokeWidth=2" alt="Get in Touch" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=F39C12&height=60&section=header&text=Get%20in%20Touch&fontSize=35&fontColor=F39C12&stroke=F39C12&strokeWidth=2" alt="Get in Touch" />
 </p>
 
 <p align="center">
@@ -184,5 +184,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4444,30:000000,100:000000&height=150&section=footer&text=Thanks%20for%20dropping%20by!&fontSize=30&fontColor=FF4444&animation=fadeIn&fontAlignY=60" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F39C12,30:000000,100:000000&height=150&section=footer&text=Thanks%20for%20dropping%20by!&fontSize=30&fontColor=F39C12&animation=fadeIn&fontAlignY=60" alt="footer" />
 </p>
