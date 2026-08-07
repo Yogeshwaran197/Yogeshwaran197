@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:FFC500,100:C0392B&height=220&section=header&animation=twinkling&text=Yogeshwaran%20D&fontSize=46&fontColor=141414" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waved&color=0:0D1117,50:161B22,100:21262D&height=250&section=header&text=Yogeshwaran%20D&fontSize=50&fontColor=58A6FF&animation=twinkling" alt="header" />
 </p>
 
 <p align="center">
