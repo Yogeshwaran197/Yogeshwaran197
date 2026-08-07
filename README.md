@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFC500&center=true&vCenter=true&width=860&lines=AI+%26+Data+Science+Engineer+|+RAG+|+LangGraph+Agents+|+QLoRA;Final+year+%40+SNS+College+of+Engineering" alt="tagline" />
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300" alt="dev working" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=860&lines=AI+%26+Data+Science+Engineer+|+RAG+|+LangGraph+Agents+|+QLoRA;Final+year+%40+SNS+College+of+Engineering" alt="tagline" />
 </p>
 
 ---
