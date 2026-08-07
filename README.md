@@ -2,6 +2,8 @@
   <img src="header.png" width="100%" alt="header banner" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Yogeshwaran D</h1>
+
 <p align="center">
   <img src="tenor.gif" width="550" alt="dev working" />
 </p>
