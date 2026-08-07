@@ -107,14 +107,30 @@
   <strong>LLM / RAG / Agents</strong>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=langchain,pytorch,tensorflow,huggingface&theme=dark" alt="LLM stack" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 </p>
 
 <p align="center">
   <strong>ML / Deep Learning & Data</strong>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas&theme=dark" alt="ML stack" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="ML stack" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+</p>
+
+<p align="center">
+  <strong>Vector Stores & Retrieval</strong>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white" alt="FAISS" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
 </p>
 
 <p align="center">
@@ -124,23 +140,14 @@
   <img src="https://skillicons.dev/icons?i=python,js,docker,githubactions,vscode&theme=dark" alt="tools" />
 </p>
 
-<p align="center">
-  <strong>Vector Stores & Databases</strong>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white" alt="ChromaDB" />
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white" alt="FAISS" />
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-</p>
-
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yogeshwaran197&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Yogeshwaran197&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
+  </a>
 </p>
 
 ---
@@ -148,13 +155,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yogeshwaran197&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="stats" height="180" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Yogeshwaran197&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Yogeshwaran197&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&rank_icon=github" alt="stats" height="180" />
+  </picture>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshwaran197&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="top langs" height="180" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshwaran197&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshwaran197&layout=compact&theme=default&hide_border=true&langs_count=8" alt="top langs" height="180" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogeshwaran197&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Yogeshwaran197&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak" />
+  </a>
 </p>
 
 <br/>
@@ -182,7 +197,11 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yogeshwaran197/Yogeshwaran197/output/github-contribution-grid-snake.svg" alt="snake" height="100" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yogeshwaran197/Yogeshwaran197/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yogeshwaran197/Yogeshwaran197/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Yogeshwaran197/Yogeshwaran197/output/github-snake.svg" />
+  </picture>
 </p>
 
 <p align="center">
