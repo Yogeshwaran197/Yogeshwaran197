@@ -110,40 +110,52 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <strong>LLM / RAG / Agents</strong>
+  <strong>Generative AI & LLMs</strong>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
   <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama" />
 </p>
 
 <p align="center">
-  <strong>ML / Deep Learning & Data</strong>
+  <strong>ML, Data & Fine-Tuning</strong>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="ML stack" />
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch&theme=dark" alt="ML stack" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
 
 <p align="center">
-  <strong>Vector Stores & Retrieval</strong>
+  <strong>RAG & Vector DBs</strong>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white" alt="ChromaDB" />
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white" alt="FAISS" />
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
 </p>
 
 <p align="center">
-  <strong>Languages, Tools & MLOps</strong>
+  <strong>Languages & Frontend</strong>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,docker,githubactions,vscode&theme=dark" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,tailwind,bootstrap,react&theme=dark" alt="languages frontend" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+</p>
+
+<p align="center">
+  <strong>Tools & DevOps</strong>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,githubactions,fastapi&theme=dark" alt="tools" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab" />
 </p>
 
 
