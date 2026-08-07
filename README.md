@@ -2,21 +2,25 @@
   <img src="header.png" width="100%" alt="header banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Yogeshwaran D</h1>
+<br/>
 
-<p align="center">
-  <img src="tenor.gif" width="550" alt="dev working" />
-</p>
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="50%">
+      <h1>Hi 👋, I'm Yogeshwaran D</h1>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=450&height=80&lines=Building+the+full+LLM+stack;Hybrid+RAG+%7C+LangGraph+Agents;QLoRA+Fine-Tuning+%7C+Vector+Search" alt="tagline" />
+      <br/><br/>
+      <a href="https://github.com/Yogeshwaran197?tab=followers">
+        <img src="https://img.shields.io/github/followers/Yogeshwaran197?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=58A6FF" alt="followers" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <img src="tenor.gif" width="350" alt="dev working" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=Building+the+full+LLM+stack+%E2%80%94+retrieval+%E2%86%92+generation+%E2%86%92+orchestration;Hybrid+RAG+%7C+LangGraph+Agents+%7C+QLoRA+Fine-Tuning+%7C+Vector+Search" alt="tagline" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Yogeshwaran197?tab=followers">
-    <img src="https://img.shields.io/github/followers/Yogeshwaran197?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=58A6FF" alt="followers" />
-  </a>
-</p>
+<br/>
 
 ---
 
