@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:161B22,60:21262D,100:30363D&height=250&section=header&text=Yogeshwaran%20D&fontSize=50&fontColor=58A6FF&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%E2%80%A2%20LLM%20Builder%20%E2%80%A2%20RAG%20Architect&descSize=16&descColor=8B949E&descAlignY=55" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,25:24283B,50:414868,75:7AA2F7,100:BB9AF7&height=250&section=header&text=Yogeshwaran%20D&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%E2%80%A2%20LLM%20Builder%20%E2%80%A2%20RAG%20Architect&descSize=16&descColor=C0CAF5&descAlignY=55" alt="header" />
 </p>
 
 <p align="center">
@@ -14,8 +14,6 @@
   <a href="https://github.com/Yogeshwaran197?tab=followers">
     <img src="https://img.shields.io/github/followers/Yogeshwaran197?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=58A6FF" alt="followers" />
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Yogeshwaran197&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS&labelColor=0D1117" alt="profile views" />
 </p>
 
 ---
@@ -188,5 +186,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:161B22,60:21262D,100:30363D&height=120&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BB9AF7,25:7AA2F7,50:414868,75:24283B,100:1A1B27&height=120&section=footer" alt="footer" />
 </p>
