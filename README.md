@@ -25,7 +25,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=F39C12&height=60&section=header&text=About%20Me&fontSize=35&fontColor=F39C12" alt="About Me" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=F39C12&height=60&section=header&text=About%20Me&fontSize=35&fontColor=F39C12&stroke=F39C12&strokeWidth=2" alt="About Me" />
 </p>
 
 <p align="center">
@@ -59,65 +59,34 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=F39C12&height=60&section=header&text=Currently%20Building&fontSize=35&fontColor=F39C12" alt="Currently Building" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=F39C12&height=60&section=header&text=Currently%20Building&fontSize=35&fontColor=F39C12&stroke=F39C12&strokeWidth=2" alt="Currently Building" />
 </p>
 
 <br/>
 
 <p align="center">
-
-<table align="center">
-  <tr>
-    <td align="center" width="320">
-      <h3>🔗 Multi-Stage RAG Pipeline</h3>
-      <p>
-        Hybrid <strong>BM25 + dense</strong> retrieval with<br/>
-        <strong>HyDE expansion</strong>, parent-document retrieval,<br/>
-        and cross-encoder reranking
-      </p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" height="30" />
-      </p>
-      <sub>LangChain · FAISS · BAAI/bge-m3</sub>
-    </td>
-    <td align="center" width="320">
-      <h3>🤖 Self-Improving Agent</h3>
-      <p>
-        LangGraph agents that <strong>synthesize<br/>
-        their own tools</strong> and self-critique<br/>
-        failures on every run
-      </p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=python,docker&theme=dark" height="30" />
-      </p>
-      <sub>ChromaDB · Qdrant · Groq</sub>
-    </td>
-    <td align="center" width="320">
-      <h3>🧬 QLoRA Fine-Tuning</h3>
-      <p>
-        Adapting <strong>Mistral-7B / Qwen2.5-7B</strong><br/>
-        with parameter-efficient techniques<br/>
-        on Hugging Face infrastructure
-      </p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" height="30" />
-      </p>
-      <sub>peft · trl · bitsandbytes</sub>
-    </td>
-  </tr>
-</table>
-
+  <a href="https://github.com/Yogeshwaran197/intent-routed-rag-agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yogeshwaran197&repo=intent-routed-rag-agent&theme=github-dark&bg_color=0D1117&title_color=F39C12&icon_color=58A6FF&text_color=C9D1D9&border_color=1B263B" alt="intent-routed-rag-agent" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Yogeshwaran197/Investment_agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yogeshwaran197&repo=Investment_agent&theme=github-dark&bg_color=0D1117&title_color=F39C12&icon_color=58A6FF&text_color=C9D1D9&border_color=1B263B" alt="Investment_agent" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Yogeshwaran197/openBrower-Agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yogeshwaran197&repo=openBrower-Agent&theme=github-dark&bg_color=0D1117&title_color=F39C12&icon_color=58A6FF&text_color=C9D1D9&border_color=1B263B" alt="openBrower-Agent" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=F39C12&height=60&section=header&text=Tech%20Stack&fontSize=35&fontColor=F39C12" alt="Tech Stack" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=F39C12&height=60&section=header&text=Tech%20Stack&fontSize=35&fontColor=F39C12&stroke=F39C12&strokeWidth=2" alt="Tech Stack" />
 </p>
 
 <table align="center" border="0">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <strong>Generative AI & LLMs</strong><br/><br/>
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
       <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
@@ -126,44 +95,42 @@
       <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
       <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama" />
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <strong>ML, Data & Fine-Tuning</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=sklearn,pytorch&theme=dark" alt="ML stack" />
-      &nbsp;&nbsp;
+      <br/><br/>
       <img src="https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
       <img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <br/><strong>RAG & Vector DBs</strong><br/><br/>
+    <td align="center" width="33%">
+      <strong>RAG & Vector DBs</strong><br/><br/>
       <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white" alt="ChromaDB" />
       <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white" alt="FAISS" />
+      <br/><br/>
+      <strong>Qdrant</strong>
     </td>
-    <td align="center" width="50%">
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
       <br/><strong>Languages & Frontend</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=python,js,html,css,tailwind,bootstrap,react&theme=dark" alt="languages frontend" />
       &nbsp;&nbsp;
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
     </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
+    <td align="center">
       <br/><strong>Tools & DevOps</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,githubactions,fastapi&theme=dark" alt="tools" />
-      &nbsp;&nbsp;
+      <br/><br/>
       <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
       <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab" />
     </td>
   </tr>
 </table>
 
-
-
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=F39C12&height=60&section=header&text=GitHub%20Stats&fontSize=35&fontColor=F39C12" alt="GitHub Stats" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=F39C12&height=60&section=header&text=GitHub%20Stats&fontSize=35&fontColor=F39C12&stroke=F39C12&strokeWidth=2" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -187,7 +154,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=F39C12&height=60&section=header&text=Get%20in%20Touch&fontSize=35&fontColor=F39C12" alt="Get in Touch" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=F39C12&height=60&section=header&text=Get%20in%20Touch&fontSize=35&fontColor=F39C12&stroke=F39C12&strokeWidth=2" alt="Get in Touch" />
 </p>
 
 <p align="center">
