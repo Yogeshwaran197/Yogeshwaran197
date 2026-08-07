@@ -186,12 +186,10 @@
 
 <p align="center"><em>Open to AI / LLM engineering internships & placements.</em></p>
 
----
-
 <p align="center">
   <img alt="github-snake" src="https://raw.githubusercontent.com/Yogeshwaran197/Yogeshwaran197/output/github-snake-dark.svg" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F39C12,30:000000,100:000000&height=120&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F39C12,30:000000,100:000000&height=150&section=footer&text=Thanks%20for%20dropping%20by!&fontSize=30&fontColor=F39C12&animation=fadeIn&fontAlignY=60" alt="footer" />
 </p>
