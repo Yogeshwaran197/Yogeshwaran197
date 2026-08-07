@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/qO7Y4SglAlYAAAAM/miss-kobayashis-dragon-maid-kobayashi-san-chi-no-maid-dragon.gif" width="500" alt="dev working" />
+  <img src="tenor.gif" width="500" alt="dev working" />
 </p>
 
 <p align="center">
