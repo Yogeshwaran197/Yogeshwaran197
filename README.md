@@ -68,17 +68,17 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/Yogeshwaran197/intent-routed-rag-agent">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=Yogeshwaran197&repo=intent-routed-rag-agent&theme=github_dark&bg_color=0D1117&title_color=F39C12&icon_color=58A6FF&text_color=C9D1D9&border_color=1B263B" alt="intent-routed-rag-agent" />
+        <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin?username=Yogeshwaran197&repo=intent-routed-rag-agent&theme=github_dark&bg_color=0D1117&title_color=F39C12&icon_color=58A6FF&text_color=C9D1D9&border_color=1B263B" alt="intent-routed-rag-agent" />
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Yogeshwaran197/Investment_agent">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=Yogeshwaran197&repo=Investment_agent&theme=github_dark&bg_color=0D1117&title_color=F39C12&icon_color=58A6FF&text_color=C9D1D9&border_color=1B263B" alt="Investment_agent" />
+        <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin?username=Yogeshwaran197&repo=Investment_agent&theme=github_dark&bg_color=0D1117&title_color=F39C12&icon_color=58A6FF&text_color=C9D1D9&border_color=1B263B" alt="Investment_agent" />
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Yogeshwaran197/openBrower-Agent">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=Yogeshwaran197&repo=openBrower-Agent&theme=github_dark&bg_color=0D1117&title_color=F39C12&icon_color=58A6FF&text_color=C9D1D9&border_color=1B263B" alt="openBrower-Agent" />
+        <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin?username=Yogeshwaran197&repo=openBrower-Agent&theme=github_dark&bg_color=0D1117&title_color=F39C12&icon_color=58A6FF&text_color=C9D1D9&border_color=1B263B" alt="openBrower-Agent" />
       </a>
     </td>
   </tr>
