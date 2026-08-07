@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,25:24283B,50:414868,75:7AA2F7,100:BB9AF7&height=250&section=header&text=Yogeshwaran%20D&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%E2%80%A2%20LLM%20Builder%20%E2%80%A2%20RAG%20Architect&descSize=16&descColor=C0CAF5&descAlignY=55" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,25:24283B,50:414868,75:7AA2F7,100:BB9AF7&height=250&section=header&text=Yogeshwaran%20D&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=45" alt="header" />
 </p>
 
 <p align="center">
@@ -140,30 +140,16 @@
   <img src="https://skillicons.dev/icons?i=python,js,docker,githubactions,vscode&theme=dark" alt="tools" />
 </p>
 
----
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Yogeshwaran197&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
-  </a>
-</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Yogeshwaran197&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Yogeshwaran197&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&rank_icon=github" alt="stats" height="180" />
-  </picture>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Yogeshwaran197&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="stats" height="180" />
   &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshwaran197&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshwaran197&layout=compact&theme=default&hide_border=true&langs_count=8" alt="top langs" height="180" />
-  </picture>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Yogeshwaran197&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="top langs" height="180" />
 </p>
 
 <p align="center">
@@ -197,11 +183,7 @@
 ---
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yogeshwaran197/Yogeshwaran197/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yogeshwaran197/Yogeshwaran197/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Yogeshwaran197/Yogeshwaran197/output/github-snake.svg" />
-  </picture>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Yogeshwaran197/Yogeshwaran197/output/github-snake-dark.svg" />
 </p>
 
 <p align="center">
